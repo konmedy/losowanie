@@ -1,0 +1,11 @@
+C:\Users\konme\source\repos\losowanieAleWWinForms\losowanieAleWWinForms\bin\Debug\losowanieAleWWinForms.exe.config
+C:\Users\konme\source\repos\losowanieAleWWinForms\losowanieAleWWinForms\bin\Debug\losowanieAleWWinForms.exe
+C:\Users\konme\source\repos\losowanieAleWWinForms\losowanieAleWWinForms\bin\Debug\losowanieAleWWinForms.pdb
+C:\Users\konme\source\repos\losowanieAleWWinForms\losowanieAleWWinForms\obj\Debug\losowanieAleWWinForms.csprojAssemblyReference.cache
+C:\Users\konme\source\repos\losowanieAleWWinForms\losowanieAleWWinForms\obj\Debug\losowanieAleWWinForms.Form1.resources
+C:\Users\konme\source\repos\losowanieAleWWinForms\losowanieAleWWinForms\obj\Debug\losowanieAleWWinForms.Properties.Resources.resources
+C:\Users\konme\source\repos\losowanieAleWWinForms\losowanieAleWWinForms\obj\Debug\losowanieAleWWinForms.csproj.GenerateResource.cache
+C:\Users\konme\source\repos\losowanieAleWWinForms\losowanieAleWWinForms\obj\Debug\losowanieAleWWinForms.csproj.CoreCompileInputs.cache
+C:\Users\konme\source\repos\losowanieAleWWinForms\losowanieAleWWinForms\obj\Debug\losowanieAleWWinForms.exe
+C:\Users\konme\source\repos\losowanieAleWWinForms\losowanieAleWWinForms\obj\Debug\losowanieAleWWinForms.pdb
+C:\Users\konme\source\repos\losowanieAleWWinForms\losowanieAleWWinForms\obj\Debug\losowanieAleWWinForms.oMnie.resources
